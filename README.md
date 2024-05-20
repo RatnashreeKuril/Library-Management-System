@@ -11,7 +11,7 @@
 
 ### Running the Application
 
-1. Run the application as a Java application using the following command:
+1. Run the application as a Java application using the following command in command prompt:
    ```sh
    mvn clean compile
    mvn clean install
