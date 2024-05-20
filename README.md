@@ -13,6 +13,8 @@
 
 1. Run the application as a Java application using the following command:
    ```sh
+   mvn clean compile
+   mvn clean install
    java -jar target/librarysystem-0.0.1-SNAPSHOT.jar
 ### API Docs
 You will find the API documentation for this application in the api-docs folder in JSON and YAML format.
