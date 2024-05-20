@@ -1,5 +1,9 @@
 # Library-Management-System
-
+## System Requirements
+1) Java version: 17.0.11
+2) Apache Maven 3.9.6
+3) Database : MySQL
+   
 ## Installation
 
 ### Database and Tables Setup
